@@ -1,0 +1,4 @@
+# Build outputs (run build.ps1); the installer is published as a GitHub release instead.
+bin/
+dist/
+*.tmp
